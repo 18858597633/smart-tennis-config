@@ -1,0 +1,16 @@
+{
+  "android": {
+    "latestVersion": "1.1.1",
+    "minimumVersion": "1.1.0",
+    "forceUpdate": true,
+    "message": "We've fixed more bugs. Our app now looks and works even better!",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.boundlessports.Netennis"
+  },
+  "ios": {
+    "latestVersion": "1.1.0",
+    "minimumVersion": "1.1.0",
+    "forceUpdate": true,
+    "message": "We've fixed more bugs. Our app now looks and works even better!",
+    "downloadUrl": "https://apps.apple.com/us/app/netennis/id6748665121"
+  }
+}
