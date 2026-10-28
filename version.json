@@ -1,6 +1,6 @@
 {
   "android": {
-    "latestVersion": "1.1.1",
+    "latestVersion": "1.1.0",
     "minimumVersion": "1.1.0",
     "forceUpdate": true,
     "message": "We've fixed more bugs. Our app now looks and works even better!",
