@@ -1,27 +1,22 @@
 {
-  "android": {
-    "latestVersion": "1.1.0",
-    "minimumVersion": "1.0.0",
+  "model": "AirMaster",
+  "updateInfo": {
+    "latestVersion": "1.3",
+    "minimumSupportedVersion": "0.1",
     "forceUpdate": false,
-    "message": "优化稳定性。",
-    "downloadUrl": "https://play.google.com/store/apps/details?id=com.boundlessports.Netennis"
+    "message": "优化设备连接稳定性",
+    "downloadUrl": "https://github.com/18858597633/smart-tennis-config/releases/download/AirmasterV1.13/AirmasterV1.13.hex16"
   },
-  "ios": {
-    "latestVersion": "1.1.0",
-    "minimumVersion": "1.0.0",
-    "forceUpdate": false,
-    "message": "优化稳定性。",
-    "downloadUrl": "https://apps.apple.com/app/id<AppleID>"
-  },
-  "firmware": {
-    "model": "AirMaster",
-    "version": "1.2.0",
-    "minimumAppVersion": "1.1.0",
-    "forceUpdate": false,
-    "message": "优化设备稳定性。",
-    "downloadUrl": "https://github.com/<公司组织>/airmaster-firmware/releases/download/firmware-v1.2.0/airmaster_firmware_v1.2.0.bin",
-    "sha256": "<发布前计算的SHA-256>",
-    "fileName": "airmaster_firmware_v1.2.0.bin",
-    "sizeBytes": 348160
-  }
+  "versions": [
+    {
+      "version": "1.3",
+      "message": "优化设备连接稳定性",
+      "downloadUrl": "https://github.com/18858597633/smart-tennis-config/releases/download/AirmasterV1.13/AirmasterV1.13.hex16"
+    },
+    {
+      "version": "0.1",
+      "message": "初始版本",
+      "downloadUrl": "https://github.com/18858597633/smart-tennis-config/releases/download/AirmasterV0.1/AirmasterV0.1.hex16"
+    }
+  ]
 }
