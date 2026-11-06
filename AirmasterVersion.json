@@ -1,0 +1,27 @@
+{
+  "android": {
+    "latestVersion": "1.1.0",
+    "minimumVersion": "1.0.0",
+    "forceUpdate": false,
+    "message": "优化稳定性。",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.boundlessports.Netennis"
+  },
+  "ios": {
+    "latestVersion": "1.1.0",
+    "minimumVersion": "1.0.0",
+    "forceUpdate": false,
+    "message": "优化稳定性。",
+    "downloadUrl": "https://apps.apple.com/app/id<AppleID>"
+  },
+  "firmware": {
+    "model": "AirMaster",
+    "version": "1.2.0",
+    "minimumAppVersion": "1.1.0",
+    "forceUpdate": false,
+    "message": "优化设备稳定性。",
+    "downloadUrl": "https://github.com/<公司组织>/airmaster-firmware/releases/download/firmware-v1.2.0/airmaster_firmware_v1.2.0.bin",
+    "sha256": "<发布前计算的SHA-256>",
+    "fileName": "airmaster_firmware_v1.2.0.bin",
+    "sizeBytes": 348160
+  }
+}
